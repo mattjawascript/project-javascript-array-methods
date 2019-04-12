@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.container {
+  padding-top: 125px;
+}
+
+button {
+  width: 60px;
+  height: 20px;
+  margin: 10px 30px;
+}
+
+footer {
+  width: 100%;
+  background-color: black;
+  color: aliceblue;
+  font-size: 10px;
+  position: absolute;
+  bottom: 0;
+}
